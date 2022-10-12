@@ -23,7 +23,7 @@ I’m a full-stack developer with a passion of creating applications that enhanc
 
 - 😄 Pronouns: Chingchou  
 
-- ⚡ Huge nerd for speedy sport like surfing and skiing  
+- ⚡ Love speedy sports like surfing and skiing  
 
 - :heart: Love opportunities to get to know people  
 
