@@ -34,7 +34,7 @@ My Tech Stack
 
 <p>
   
-- Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | TypeScript | HTML5 | CSS | JQuery | MUI  
+- Front End: JavaScript (ES5 and ES6) | React | Redux | React-Router-dom | TypeScript | HTML5 | CSS | JQuery | MUI  
   
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development  
   
