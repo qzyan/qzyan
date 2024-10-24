@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 I’m a full-stack developer with a passion of creating applications that enhance users' experience and ease people's life. I want to always seek out opportunities on deploying something new.
 </p>
 
-- 😄 Pronunciation: Chingchou  
-
 - ⚡ Love speedy sports like surfing and skiing  
 
 - :heart: Love opportunities to get to know people  
